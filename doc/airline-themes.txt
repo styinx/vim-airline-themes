@@ -199,6 +199,7 @@ Currently this repository contains the following themes:
     * blood_red
     * cobalt2
     * cool
+    * codedark
     * cyberpunk
     * dark
     * dark_minimal
